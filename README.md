@@ -29,7 +29,7 @@ Fatima, Arjumand; Maqbool, Onaiza (2025). Stack Overflow Recommendations Dataset
 U+1F534 some text
 <span style="color:red">some **This is Red Bold.** text</span>
 <font color='red'>test blue color font</font>
-
+$${\color{red}Red}$$
 ## Data Dump Used
 We have utilized the quarterly updated Stack Overflow data dump published in October 2025 which is described below.
 
