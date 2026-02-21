@@ -40,15 +40,19 @@ We have utilized the quarterly updated Stack Overflow data dump published in Oct
 
 ## The Stack Overflow Recommendations Dataset (SORD)
 We have curated Stack Overflow Questions, Answers and Comments containing one or more recommendation related keywords from the above mentioned data dump which are included in SORD as described below. We have included the results obtained from CONTAINS and LIKE-CONTAINS in the dataset. 
+### Set of Keywords Used to Curate Data
+We have used the following set of recommendation related keywords to filter questions, answers and comments potentially containing any sort of recommendations, present in the gigantic Stack Overflow data dump (published in October 2025) containing the data from its inception in 2008 till October 2025.
+`Recommend`,`Advise`,`Advocate`,`Adopt`,`Suggest`,`Suitable`,`Praise`,`Favor`,`Support`,`Urge`,`Promote`,`Champion`,`Endorse`,`Commend`,`Propose`,`Oppose`,`Condemn`,`Reject`,`Disapprove`
 
+### Data Included in SORD
 | Data | Total Records | Substring Matching (LIKE) | Exact Matching (CONTAINS) |Substrings Other than Exact Match (LIKE-CONTAINS)|
 |:---|:---:|:---:|:---:|:--:|
 | Question Title |24,198,178|	 164,586 (0.68%)	| 73,901 (0.31%)| 90,685 (0.37%)
 | Question Body  |	24,198,178| 2,646,945 (10.94%) |1,135,148 (4.69%)| 1,511,800 (6.25%)
 | Answers |	36,063,114| 3,655,886 (10.14%) |2,228,118 (6.18%)| 1,427,770 (3.96%)
 | Comments |	91,315,031| 4,014,709 (4.40%) |1,900,242 (2.08%) | 2,114,468 (2.32%)
-
-In addition to the above mentioend datam we have also extracted additional meta-data from Stack Overflow data dump for enriching SORD which is as follows.
+### Additional Metadata Included
+In addition to the above mentioend data we have also extracted additional meta-data from Stack Overflow data dump for enriching SORD which is as follows.
 | Data | Total Records | Filtered Records Related to SORD|
 |:---|:---:|:---:|
 |Badges	|54,312,436	|34,830,450  (64.13%)|
