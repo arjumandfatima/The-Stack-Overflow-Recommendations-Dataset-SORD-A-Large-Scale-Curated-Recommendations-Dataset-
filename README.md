@@ -39,7 +39,7 @@ We have utilized the quarterly updated Stack Overflow data dump published in Oct
 | Votes	| 22.3 GB	| 246,514,372 (247M)| 
 
 ## The Stack Overflow Recommendations Dataset (SORD)
-We have curated Stack Overflow Questions, Answers and Comments containing one or more recommendation related keywords from the above mentioned data dump which are included in SORD as described below.
+We have curated Stack Overflow Questions, Answers and Comments containing one or more recommendation related keywords from the above mentioned data dump which are included in SORD as described below. We have included the results obtained from CONTAINS and LIKE-CONTAINS in the dataset. 
 
 | Data | Total Records | Substring Matching (LIKE) | Exact Matching (CONTAINS) |Substrings Other than Exact Match (LIKE-CONTAINS)|
 |:---|:---:|:---:|:---:|:--:|
@@ -47,6 +47,14 @@ We have curated Stack Overflow Questions, Answers and Comments containing one or
 | Question Body  |	24,198,178| 2,646,945 (10.94%) |1,135,148 (4.69%)| 1,511,800 (6.25%)
 | Answers |	36,063,114| 3,655,886 (10.14%) |2,228,118 (6.18%)| 1,427,770 (3.96%)
 | Comments |	91,315,031| 4,014,709 (4.40%) |1,900,242 (2.08%) | 2,114,468 (2.32%)
+
+In addition to the above mentioend datam we have also extracted additional meta-data from Stack Overflow data dump for enriching SORD which is as follows.
+| Data | Total Records | Filtered Records Related to SORD|
+|:---|:---:|:---:|
+|Badges	|54,312,436	|34,830,450  (64.13%)|
+|Tags	|66,046|	61,672 | (93.38%)|
+|Users	|30,088,388	|1,993,211  (6.62%)|
+|Votes	|246,514,372	|50,725,814  (20.58%)|
 
 
 
