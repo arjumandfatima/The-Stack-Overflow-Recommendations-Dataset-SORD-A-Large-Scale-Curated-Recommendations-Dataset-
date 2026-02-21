@@ -52,7 +52,7 @@ In addition to the above mentioend datam we have also extracted additional meta-
 | Data | Total Records | Filtered Records Related to SORD|
 |:---|:---:|:---:|
 |Badges	|54,312,436	|34,830,450  (64.13%)|
-|Tags	|66,046|	61,672 | (93.38%)|
+|Tags	|66,046|	61,672  (93.38%)|
 |Users	|30,088,388	|1,993,211  (6.62%)|
 |Votes	|246,514,372	|50,725,814  (20.58%)|
 
