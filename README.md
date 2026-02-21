@@ -62,6 +62,6 @@ In addition to the above mentioend data we have also extracted additional meta-d
 |Votes	|246,514,372	|50,725,814  (20.58%)|
 
 
-```xml <row Id="82957" UserId="5246" Name="Teacher" Date="2008-09-15T08:55:03.957" Class="3" TagBased="False" />```
+```xml <row Id="82957" UserId="5246" Name="Teacher" Date="2008-09-15T08:55:03.957" Class="3" TagBased="False" />.```
 
 
