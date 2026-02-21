@@ -61,9 +61,8 @@ In addition to the above mentioend data we have also extracted additional meta-d
 |Tags	|66,046|	61,672  (93.38%)|
 |Users	|30,088,388	|1,993,211  (6.62%)|
 |Votes	|246,514,372	|50,725,814  (20.58%)|
-
-
-```<row AutoIdPK="84413"	Id="145402"	AcceptedAnswerId="145417"	CreationDate="2008-09-28 07:09:00.713"	Score="11"	ViewCount="10551"	Body="<p>Can anyone recommend some useful performance analysis tools for PHP scripts? Anything that could help me find problematic or unusually slow blocks of code, details about execution time, etc. would be really helpful. I know there are tools out there, but I'm wondering what people recommend as being the most useful and well-designed.</p>"	OwnerUserId="5291"	OwnerDisplayName="Wilco"	LastEditorUserId="1033581"	LastEditorDisplayName="Blair Conrad"	LastEditDate="2017-04-04 10:23:11.867"	LastActivityDate="2017-04-04 10:23:11.867"	Title="**Can you recommend Performance Analysis tools for PHP?**"	Tags="<php><performance><testing>"	AnswerCount="5"	CommentCount="0"	ClosedDate="2012-06-13 13:29:40.483"	CommunityOwnedDate="1970-01-01 00:00:00.000"	ContentLicense="CC BY-SA 3.0" />```
+> [!NOTE]
+> ```<row AutoIdPK="84413"	Id="145402"	AcceptedAnswerId="145417"	CreationDate="2008-09-28 07:09:00.713"	Score="11"	ViewCount="10551"	Body="<p>Can anyone recommend some useful performance analysis tools for PHP scripts? Anything that could help me find problematic or unusually slow blocks of code, details about execution time, etc. would be really helpful. I know there are tools out there, but I'm wondering what people recommend as being the most useful and well-designed.</p>"	OwnerUserId="5291"	OwnerDisplayName="Wilco"	LastEditorUserId="1033581"	LastEditorDisplayName="Blair Conrad"	LastEditDate="2017-04-04 10:23:11.867"	LastActivityDate="2017-04-04 10:23:11.867"	Title="**Can you recommend Performance Analysis tools for PHP?**"	Tags="<php><performance><testing>"	AnswerCount="5"	CommentCount="0"	ClosedDate="2012-06-13 13:29:40.483"	CommunityOwnedDate="1970-01-01 00:00:00.000"	ContentLicense="CC BY-SA 3.0" />```
 
 
 
