@@ -23,3 +23,11 @@ For any information, interested researchers can contact us by sending an email t
 
 ## How to cite the package
 Fatima, Arjumand; Maqbool, Onaiza (2025). Stack Overflow Recommendations Dataset (SORD) - Version 1.0 based on Stack Overflow Data Dump - October 2025. figshare. Dataset. https://doi.org/10.6084/m9.figshare.30948506.v1<br>
+
+## Data Dump Used
+We have utilized the quarterly updated Stack Overflow data dump published in October 2025 which is described below.
+
+| Left-aligned | Center-aligned | Right-aligned |
+|:---|:---:|---:|
+| Data L | Data C | Data R |
+| More L | More C | More R |
