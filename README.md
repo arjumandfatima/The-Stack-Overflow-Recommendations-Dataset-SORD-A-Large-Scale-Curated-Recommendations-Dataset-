@@ -1,5 +1,5 @@
 # The-Stack-Overflow-Recommendations-Dataset-SORD-A-Large-Scale-Curated-Recommendations-Dataset-
-A replication package accompanying paper  entitled "The Stack Overflow Recommendations Dataset (SORD) – A Large-Scale Curated Dataset of Recommendations Related Stack Overflow Questions, Answers and Comments" currently under review in Data-in-Brief
+A replication package accompanying paper  entitled _"The Stack Overflow Recommendations Dataset (SORD) – A Large-Scale Curated Dataset of Recommendations Related Stack Overflow Questions, Answers and Comments"_ currently under review in Data-in-Brief. <br>
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
