@@ -27,7 +27,13 @@ Fatima, Arjumand; Maqbool, Onaiza (2025). Stack Overflow Recommendations Dataset
 ## Data Dump Used
 We have utilized the quarterly updated Stack Overflow data dump published in October 2025 which is described below.
 
-| Left-aligned | Center-aligned | Right-aligned |
-|:---|:---:|---:|
-| Data L | Data C | Data R |
-| More L | More C | More R |
+| File Name  | File Size | No. of Records After Parsing |
+|:---|:---:|:---:|
+| Badges	| 5.99 GB	| 54,312,436 (54M)| 
+| Comments	| 26.2 GB	| 91,315,031 (91M)| 
+| PostHistory	| 172 GB	| 162,338,606 (162M)| 
+| PostLinks	| 767 MB	| 6,535,632 (6.5M)| 
+| Posts	| 98.4 GB	| 60,376,057 (60M)| 
+| Tags	| 5.60 MB	| 66,046 (66k)| 
+| Users	| 7.25 GB	| 30,088,388 (30M)| 
+| Votes	| 22.3 GB	| 246,514,372 (247M)| 
