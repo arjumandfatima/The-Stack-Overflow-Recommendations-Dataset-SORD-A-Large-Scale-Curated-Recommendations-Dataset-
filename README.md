@@ -65,16 +65,16 @@ In addition to the above mentioend data we have also extracted additional meta-d
 |Folder	|File Name|	File Size	|
 |:---|:---:|:---:|
 |questions	|QuestionsTitle_Contain.csv	|118 MB|
-|	|QuestionsBody_Contain.csv|	3.26 GB|
-|  |QuestionsTitle_LikeMinusContain.csv	|178 MB|
-|	|QuestionsBody_LikeMinusContain.csv	|3.89 GB	|
+|questions	|QuestionsBody_Contain.csv|	3.26 GB|
+| questions |QuestionsTitle_LikeMinusContain.csv	|178 MB|
+|questions	|QuestionsBody_LikeMinusContain.csv	|3.89 GB	|
 |answers	|Answers_Contain.csv	|3.27 GB	|
-|	|Answers_LikeMinusContain.csv	|2.10 GB|
+|answers	|Answers_LikeMinusContain.csv	|2.10 GB|
 |comments	|Comments_Contain.csv	|586 MB|
-|	|Comments_LikeMinusContain.csv|	634 MB	|
+|comments	|Comments_LikeMinusContain.csv|	634 MB	|
 |additional-metadata|	FilteredBadges.csv	|2.15 GB|
-|	|FilteredTags.csv	|982 KB|
-|	|FilteredUsers.csv	|305 MB |
-|	|FilteredVotes.csv	|2.77 GB	|
+|additional-metadata	|FilteredTags.csv	|982 KB|
+|additional-metadata	|FilteredUsers.csv	|305 MB |
+|additional-metadata	|FilteredVotes.csv	|2.77 GB	|
 
 
